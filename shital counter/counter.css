@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(147, 211, 138);
+
+}
+.container{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 100px;
+
+}
+
+button{
+    font-size: larger;
+    padding: 15px;
+    margin: 25px;
+    background-color:rgb(219, 212, 111);
+
+}
+#add:hover{
+    background-color:rgb(187, 240, 210);
+}
+#sub:hover{
+    background-color:rgb(187, 240, 210);
+}
+#set:hover{
+    background-color:rgb(187, 240, 210);
+}
+#zero{
+    background-color:rgb(219, 212, 111);
+
+}
